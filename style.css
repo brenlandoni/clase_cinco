@@ -1,0 +1,101 @@
+header{
+    background-color: burlywood;
+    font-style: oblique;
+    font-size: larger;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+/*tarea 5*/
+.cabecera{
+    width: auto;
+    height: 200px;
+}
+    /*Menu*/
+
+/*nav{
+    font-style: normal;
+    font-family: Arial, Helvetica, sans-serif;
+    width: auto;
+    background-color: burlywood;
+}*/
+
+.lista_menu li{
+    list-style-type: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 100%;
+    color: black;
+    display: inline;
+    padding-left: 3%;
+    padding-right: 2%;
+}
+
+div{
+    background-color: white;
+}
+
+.separador{
+    color: coral;
+}
+a{
+    color: blue;
+}
+
+a:hover{
+    color: coral;
+    background-color:navajowhite;
+}
+
+
+main{
+    padding-top: 2%;
+    background-color: white;
+    text-align: center;
+}
+
+section{
+    margin-left: 0%;
+    background-color: burlywood;
+}
+h3{
+    background-color:beige;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 100;
+}
+.dias{
+    font-size: x-large;
+    color: blue;
+    font-weight: bold;
+
+}
+.horarios{
+
+    font-style: italic;
+    font-size: large;
+    color:cadetblue;
+}
+/*Formato tabla*/
+table{
+    text-align: center;
+    margin-left:24em; /*margen de tabla*/
+}
+
+.titulo{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+/*Lista final*/
+.Lista1 li{
+    list-style-type: none;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 100%;
+    color: black;
+    margin-top: 0%;
+    
+}
+
+.pie{
+background-color: rgba(245, 170, 142, 0.89);
+height: 20%;
+width: auto;
+
+}
